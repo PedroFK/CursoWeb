@@ -1,4 +1,6 @@
 // As funções no JS são muito importantes, são cidadãos do país kkkkk
+//Funções são blocos de construção fundamentais em JavaScript.
+//Uma função é um procedimento de JavaScript - um conjunto de instruções que executa uma tarefa ou calcula um valor.
 
 //criar é de forma literal, escrevendo function ou fazendo de forma abreviada com arrow =>
 function fun1() { }

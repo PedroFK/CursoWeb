@@ -23,6 +23,6 @@ const uno = new carro //velocidade do uno
 uno.acelerar()
 console.log(uno.getCurretSpeed()) 
 
-const ferrari = new carro(350, 20) //atributos foram alterado por ser carro melhor
+const ferrari = new carro(350, 20) //atributos foram alterados por ser carro melhor
 ferrari.acelerar()
 console.log(ferrari.getCurretSpeed()) 
